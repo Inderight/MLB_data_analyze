@@ -1,6 +1,6 @@
 # MLB_data_analyze
 - It's the first EDA project by Inderight.
-- The MLB data set was pulled from Kaggle, 'MLB Pitch Data 2015-2018'.
+- The MLB data set was pulled from https://baseballsavant.mlb.com/statcast_search'. Ryu's data (2013-2019)
 - The dataset will be analyzed using by Python packages such as numpy,pandas,matplotlib,etc.
 - Next below are the explanation of pitching parameters from the dataset.
 
