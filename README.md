@@ -3,7 +3,7 @@
 - The MLB data set was pulled from https://baseballsavant.mlb.com/statcast_search'. Ryu's data (2013-2019)
 - The dataset will be analyzed using by Python packages such as numpy,pandas,matplotlib,etc.
 - Next below are the explanation of pitching parameters from the dataset.
-- The code importing packages are given below as well.
+- The start-up code importing packages are given below as well.
 
 ```
 px	
